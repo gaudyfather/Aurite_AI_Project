@@ -110,7 +110,7 @@ print(f'API Health: {health}')
 ## 📖 Usage Guide
 
 ### Option 1: Complete Investment Workflow (Recommended)
-##Must run the run_30_stock script before running the master_investment_workflow.py, cause the stock analysis in portfolio agent was defined to fetch the latest version of pre-computed stock analysis output in the "analysis_outputs" folder. You have to make sure the folder is managed to have the most recent stock_analysis output file to be the one that you want to input to the portfolio agent.
+##Must run the run_30_stock_analysis.py script before running the master_investment_workflow.py, cause the stock analysis in portfolio agent was defined to fetch the latest version of pre-computed stock analysis output in the "analysis_outputs" folder. You have to make sure the folder is managed to have the most recent stock_analysis output file to be the one that you want to input to the portfolio agent.
 
 Run the full end-to-end investment analysis:
 
