@@ -110,6 +110,7 @@ print(f'API Health: {health}')
 ## 📖 Usage Guide
 
 ### Option 1: Complete Investment Workflow (Recommended)
+##Must run the run_30_stock script before running the master_investment_workflow.py, cause the stock analysis in portfolio agent was defined to fetch the latest version of pre-computed stock analysis output in the "analysis_outputs" folder. You have to make sure the folder is managed to have the most recent stock_analysis output file to be the one that you want to input to the portfolio agent.
 
 Run the full end-to-end investment analysis:
 
@@ -124,6 +125,8 @@ This will:
 4. Analyze bonds and precious metals
 5. Construct optimized portfolio
 6. Generate professional reports
+
+#After the workflow executed, you can find all outputs(especially the portfolio_reports in the "analysis_folder".
 
 ### Option 2: Individual Analysis Components
 
@@ -142,31 +145,6 @@ python enhanced_macro_analysis.py
 python gold_analysis_agent.py
 ```
 
-### Option 3: Custom Analysis
-
-```python
-# Example: Custom stock analysis
-import asyncio
-from stock_analysis_agent import StockAnalysisAgent, AgentConfig, LLMConfig
-
-async def custom_analysis():
-    # Configure the agent
-    llm_config = LLMConfig()
-    llm_config.model = "gpt-4o-mini"
-    llm_config.temperature = 0.3
-    
-    config = AgentConfig()
-    config.llm_config = llm_config
-    
-    # Run analysis on custom tickers
-    agent = StockAnalysisAgent(config)
-    tickers = ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'TSLA']
-    results = await agent.analyze_stocks(tickers)
-    return results
-
-# Run the analysis
-results = asyncio.run(custom_analysis())
-```
 
 ## 📊 Output Files
 
