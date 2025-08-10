@@ -1,0 +1,1168 @@
+{
+  "session_id": "session_20250809_160033",
+  "timestamp": "2025-08-09T16:00:33.845218",
+  "agent1_profile": {
+    "profile_id": "workflow_1754780433844",
+    "timestamp": "2025-08-09T16:00:33.845098",
+    "investment_amount": 100000,
+    "risk_level": "moderate",
+    "time_horizon": "short",
+    "investment_goal": "wealth building",
+    "monthly_contribution": 0,
+    "preferred_sectors": [],
+    "avoid_sectors": [
+      "Technology"
+    ],
+    "additional_notes": "avoid tech",
+    "prefers_esg": false,
+    "needs_liquidity": false,
+    "tax_sensitive": false,
+    "creation_timestamp": "2025-08-09T16:00:33.845130",
+    "user_sophistication": "intermediate",
+    "behavioral_traits": {
+      "risk_seeking": false,
+      "risk_averse": false,
+      "disciplined_saver": false
+    },
+    "parsed_preferences": {
+      "avoid_sectors_from_notes": [
+        "Technology"
+      ],
+      "prefer_sectors_from_notes": [],
+      "esg_from_notes": false,
+      "liquidity_from_notes": false,
+      "tax_from_notes": false,
+      "monthly_from_notes": 0
+    }
+  },
+  "agent2_analysis": {
+    "macro": {
+      "report": "\n\ud83d\udcca ENHANCED MACRO ANALYSIS REPORT\n==================================\n\n\ud83c\udfaf PREDICTION SUMMARY\n\n\ud83d\udcc8 TREND ANALYSIS\n\nvix_trend_slope_4q:\n  Current: -0.000\n  Average: -0.000\n  Direction: increasing\n  Strength: 0.00\n\nvix_trend_slope_8q:\n  Current: 0.000\n  Average: 0.000\n  Direction: increasing\n  Strength: 0.00\n\nunemployment_rate_trend_slope_4q:\n  Current: -0.198\n  Average: 0.018\n  Direction: decreasing\n  Strength: 0.62\n\nunemployment_rate_trend_slope_8q:\n  Current: -0.087\n  Average: 0.020\n  Direction: decreasing\n  Strength: 0.47\n\nfed_funds_rate_trend_slope_4q:\n  Current: 0.004\n  Average: 0.026\n  Direction: decreasing\n  Strength: 0.11\n\nfed_funds_rate_trend_slope_8q:\n  Current: 0.095\n  Average: 0.025\n  Direction: increasing\n  Strength: 0.54\n\ntreasury_10y_trend_slope_4q:\n  Current: 0.025\n  Average: 0.001\n  Direction: increasing\n  Strength: 1.63\n\ntreasury_10y_trend_slope_8q:\n  Current: 0.051\n  Average: 0.000\n  Direction: increasing\n  Strength: 5.52\n\nreal_gdp_trend_slope_4q:\n  Current: 63.235\n  Average: 19.456\n  Direction: increasing\n  Strength: 1.64\n\nreal_gdp_trend_slope_8q:\n  Current: 57.363\n  Average: 18.289\n  Direction: increasing\n  Strength: 1.95\n\ntime_trend:\n  Current: 1.000\n  Average: 0.500\n  Direction: increasing\n  Strength: 1.71\n\nvix_trend_4q:\n  Current: -0.000\n  Average: -0.000\n  Direction: increasing\n  Strength: 0.00\n\nunemployment_rate_trend_4q:\n  Current: -0.198\n  Average: 0.018\n  Direction: decreasing\n  Strength: 0.62\n\n\ud83c\udf0a VOLATILITY ANALYSIS\n\nvix:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_ma_2q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_ma_4q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_momentum_1q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_momentum_2q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_volatility_2q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_volatility_4q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_above_ma_2q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_above_ma_4q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_unemployment_interaction:\n  Current Level: 61.053\n  Regime: normal\n  Percentile Range: 41.582 - 67.466\n\nvix_lag_1q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_lag_2q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_lag_3q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_lag1_change:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_lag2_change:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_ar1:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_mean_reversion:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_ma_8q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_ma_12q:\n  Current Level: 12.230\n  Regime: normal\n  Percentile Range: 12.230 - 12.230\n\nvix_above_ma_8q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_above_ma_12q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_trend_slope_4q:\n  Current Level: -0.000\n  Regime: normal\n  Percentile Range: -0.000 - -0.000\n\nvix_trend_slope_8q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_acceleration:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nunemployment_rate_lag1q_x_vix:\n  Current Level: 63.615\n  Regime: normal\n  Percentile Range: 41.582 - 67.466\n\nunemployment_rate_vix_direction_agreement:\n  Current Level: 1.000\n  Regime: normal\n  Percentile Range: 0.000 - 1.000\n\nvix_diff_1q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_diff_2q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_diff2_1q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_pct_change_1q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_pct_change_4q:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_zscore:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_regime_change:\n  Current Level: 0.000\n  Regime: normal\n  Percentile Range: 0.000 - 0.000\n\nvix_trend_4q:\n  Current Level: -0.000\n  Regime: normal\n  Percentile Range: -0.000 - -0.000\n\n\ud83d\udd04 CYCLICAL ANALYSIS\n\nbusiness_cycle_6y:\n  Current Phase: 1.000\n  Phase Description: Peak\n  Cycle Strength: 1.00\n\nbusiness_cycle_8y:\n  Current Phase: 0.924\n  Phase Description: Peak\n  Cycle Strength: 0.92\n\nquarterly_cycle:\n  Current Phase: 0.000\n  Phase Description: Expansion\n  Cycle Strength: 0.00\n\nrecession_indicator:\n  Current Phase: 0.000\n  Phase Description: Expansion\n  Cycle Strength: 0.00\n\nbusiness_cycle:\n  Current Phase: 1.000\n  Phase Description: Peak\n  Cycle Strength: 1.00\n\n\ud83d\udd17 CORRELATION ANALYSIS\n\nfed_funds_rate vs unemployment_rate:\n  Correlation: 0.484\n  Strength: moderate\n\ntreasury_10y vs unemployment_rate:\n  Correlation: -0.106\n  Strength: weak\n\nfed_funds_rate vs treasury_10y:\n  Correlation: -0.026\n  Strength: weak\n\n\ud83c\udfaf FEATURE IMPORTANCE\n",
+      "signals": {
+        "analysis_timestamp": "2025-08-09T16:00:45.018222",
+        "analysis_type": "enhanced_macro_analysis",
+        "macro_prediction": {
+          "direction": "neutral",
+          "confidence": 0.5,
+          "probability": 0.5,
+          "target_quarter": "N/A",
+          "model_used": "Enhanced Macro Model"
+        },
+        "economic_environment": {
+          "volatility_regime": "normal",
+          "trend_direction": "upward",
+          "cycle_phase": "expansion",
+          "market_stress": "normal"
+        },
+        "asset_class_signals": {
+          "stocks": {
+            "recommendation": "underweight",
+            "confidence": 0.5,
+            "reasoning": "Macro model predicts neutral environment"
+          },
+          "bonds": {
+            "recommendation": "neutral",
+            "confidence": 0.6,
+            "reasoning": "Bond allocation based on interest rate environment"
+          },
+          "gold": {
+            "recommendation": "neutral",
+            "confidence": 0.6,
+            "reasoning": "Gold allocation based on inflation and volatility"
+          }
+        },
+        "feature_insights": {
+          "top_features": [],
+          "trend_analysis": {
+            "vix_trend_slope_4q": {
+              "current_value": -1.4242540049332199e-15,
+              "average_value": -1.4249759718559373e-15,
+              "trend_direction": "increasing",
+              "trend_strength": 7.219669038644625e-11
+            },
+            "vix_trend_slope_8q": {
+              "current_value": 6.005182162940887e-16,
+              "average_value": 5.524988560116966e-16,
+              "trend_direction": "increasing",
+              "trend_strength": 4.801935905312762e-09
+            },
+            "unemployment_rate_trend_slope_4q": {
+              "current_value": -0.19789874801815172,
+              "average_value": 0.017658557739414892,
+              "trend_direction": "decreasing",
+              "trend_strength": 0.6171205684870802
+            },
+            "unemployment_rate_trend_slope_8q": {
+              "current_value": -0.0872171240174969,
+              "average_value": 0.0201699231759189,
+              "trend_direction": "decreasing",
+              "trend_strength": 0.47193273126647783
+            },
+            "fed_funds_rate_trend_slope_4q": {
+              "current_value": 0.0038922202175927403,
+              "average_value": 0.025939238725820164,
+              "trend_direction": "decreasing",
+              "trend_strength": 0.10870407898599559
+            },
+            "fed_funds_rate_trend_slope_8q": {
+              "current_value": 0.0950675047468425,
+              "average_value": 0.02453213955464765,
+              "trend_direction": "increasing",
+              "trend_strength": 0.5356154239332968
+            },
+            "treasury_10y_trend_slope_4q": {
+              "current_value": 0.02531384834071345,
+              "average_value": 0.0012816109360373625,
+              "trend_direction": "increasing",
+              "trend_strength": 1.6271826873921549
+            },
+            "treasury_10y_trend_slope_8q": {
+              "current_value": 0.0514053787129816,
+              "average_value": 0.0002982844108476378,
+              "trend_direction": "increasing",
+              "trend_strength": 5.523607283127244
+            },
+            "real_gdp_trend_slope_4q": {
+              "current_value": 63.23519999999928,
+              "average_value": 19.456282524271497,
+              "trend_direction": "increasing",
+              "trend_strength": 1.6369801675457396
+            },
+            "real_gdp_trend_slope_8q": {
+              "current_value": 57.36346428571446,
+              "average_value": 18.28893527508102,
+              "trend_direction": "increasing",
+              "trend_strength": 1.9520021686039686
+            },
+            "time_trend": {
+              "current_value": 1.0,
+              "average_value": 0.5,
+              "trend_direction": "increasing",
+              "trend_strength": 1.706968482210793
+            },
+            "vix_trend_4q": {
+              "current_value": -1.4242540049332199e-15,
+              "average_value": -1.4249759718559373e-15,
+              "trend_direction": "increasing",
+              "trend_strength": 7.219669038644625e-11
+            },
+            "unemployment_rate_trend_4q": {
+              "current_value": -0.19789874801815172,
+              "average_value": 0.017658557739414892,
+              "trend_direction": "decreasing",
+              "trend_strength": 0.6171205684870802
+            }
+          },
+          "volatility_analysis": {
+            "vix": {
+              "current_level": 12.229999542236328,
+              "percentile_25": 12.229999542236328,
+              "percentile_75": 12.229999542236328,
+              "volatility_regime": "normal"
+            },
+            "vix_ma_2q": {
+              "current_level": 12.229999542236328,
+              "percentile_25": 12.229999542236328,
+              "percentile_75": 12.229999542236328,
+              "volatility_regime": "normal"
+            },
+            "vix_ma_4q": {
+              "current_level": 12.229999542236328,
+              "percentile_25": 12.229999542236328,
+              "percentile_75": 12.229999542236328,
+              "volatility_regime": "normal"
+            },
+            "vix_momentum_1q": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_momentum_2q": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_volatility_2q": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_volatility_4q": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_above_ma_2q": {
+              "current_level": 0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_above_ma_4q": {
+              "current_level": 0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_unemployment_interaction": {
+              "current_level": 61.05293422275119,
+              "percentile_25": 41.58199844360352,
+              "percentile_75": 67.4657885195604,
+              "volatility_regime": "normal"
+            },
+            "vix_lag_1q": {
+              "current_level": 12.229999542236328,
+              "percentile_25": 12.229999542236328,
+              "percentile_75": 12.229999542236328,
+              "volatility_regime": "normal"
+            },
+            "vix_lag_2q": {
+              "current_level": 12.229999542236328,
+              "percentile_25": 12.229999542236328,
+              "percentile_75": 12.229999542236328,
+              "volatility_regime": "normal"
+            },
+            "vix_lag_3q": {
+              "current_level": 12.229999542236328,
+              "percentile_25": 12.229999542236328,
+              "percentile_75": 12.229999542236328,
+              "volatility_regime": "normal"
+            },
+            "vix_lag1_change": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_lag2_change": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_ar1": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_mean_reversion": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_ma_8q": {
+              "current_level": 12.229999542236328,
+              "percentile_25": 12.229999542236328,
+              "percentile_75": 12.229999542236328,
+              "volatility_regime": "normal"
+            },
+            "vix_ma_12q": {
+              "current_level": 12.229999542236328,
+              "percentile_25": 12.229999542236328,
+              "percentile_75": 12.229999542236328,
+              "volatility_regime": "normal"
+            },
+            "vix_above_ma_8q": {
+              "current_level": 0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_above_ma_12q": {
+              "current_level": 0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_trend_slope_4q": {
+              "current_level": -1.4242540049332199e-15,
+              "percentile_25": -1.4242540049332199e-15,
+              "percentile_75": -1.4242540049332199e-15,
+              "volatility_regime": "normal"
+            },
+            "vix_trend_slope_8q": {
+              "current_level": 6.005182162940887e-16,
+              "percentile_25": 6.005182162940887e-16,
+              "percentile_75": 6.005182162940887e-16,
+              "volatility_regime": "normal"
+            },
+            "vix_acceleration": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "unemployment_rate_lag1q_x_vix": {
+              "current_level": 63.614813003540036,
+              "percentile_25": 41.58199844360352,
+              "percentile_75": 67.4657885195604,
+              "volatility_regime": "normal"
+            },
+            "unemployment_rate_vix_direction_agreement": {
+              "current_level": 1,
+              "percentile_25": 0.0,
+              "percentile_75": 1.0,
+              "volatility_regime": "normal"
+            },
+            "vix_diff_1q": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_diff_2q": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_diff2_1q": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_pct_change_1q": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_pct_change_4q": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_zscore": {
+              "current_level": 0.0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_regime_change": {
+              "current_level": 0,
+              "percentile_25": 0.0,
+              "percentile_75": 0.0,
+              "volatility_regime": "normal"
+            },
+            "vix_trend_4q": {
+              "current_level": -1.4242540049332199e-15,
+              "percentile_25": -1.4242540049332199e-15,
+              "percentile_75": -1.4242540049332199e-15,
+              "volatility_regime": "normal"
+            }
+          },
+          "correlation_insights": {
+            "top_correlations": [
+              {
+                "pair": "fed_funds_rate vs unemployment_rate",
+                "correlation": 0.48438112514483467,
+                "strength": "moderate"
+              },
+              {
+                "pair": "treasury_10y vs unemployment_rate",
+                "correlation": -0.10618680840396554,
+                "strength": "weak"
+              },
+              {
+                "pair": "fed_funds_rate vs treasury_10y",
+                "correlation": -0.026429488928105208,
+                "strength": "weak"
+              }
+            ]
+          }
+        },
+        "risk_factors": [
+          "Normal market conditions",
+          "Standard macro uncertainties"
+        ],
+        "data_quality": {
+          "indicators_available": 13,
+          "analysis_completeness": 0.8333333333333334
+        }
+      }
+    },
+    "stocks": {
+      "timestamp": "2025-08-09",
+      "total_requested": 12,
+      "successful": 12,
+      "failed": 0,
+      "success_rate": 1.0,
+      "signal_distribution": {
+        "Buy": 2,
+        "Hold": 10
+      },
+      "signals_summary": [
+        {
+          "ticker": "UNH",
+          "signal": "Buy",
+          "score": 7.5,
+          "confidence": "high",
+          "reason": "Expected return: 7.5%",
+          "sector": "Healthcare"
+        },
+        {
+          "ticker": "PFE",
+          "signal": "Buy",
+          "score": 7.0,
+          "confidence": "high",
+          "reason": "Expected return: 7.0%",
+          "sector": "Healthcare"
+        },
+        {
+          "ticker": "GOOGL",
+          "signal": "Hold",
+          "score": 6.5,
+          "confidence": "medium",
+          "reason": "Expected return: 6.5%",
+          "sector": "Communication Services"
+        },
+        {
+          "ticker": "META",
+          "signal": "Hold",
+          "score": 6.5,
+          "confidence": "medium",
+          "reason": "Expected return: 6.5%",
+          "sector": "Communication Services"
+        },
+        {
+          "ticker": "GOOG",
+          "signal": "Hold",
+          "score": 6.5,
+          "confidence": "medium",
+          "reason": "Expected return: 6.5%",
+          "sector": "Communication Services"
+        },
+        {
+          "ticker": "JNJ",
+          "signal": "Hold",
+          "score": 6.5,
+          "confidence": "medium",
+          "reason": "Expected return: 6.5%",
+          "sector": "Healthcare"
+        },
+        {
+          "ticker": "NFLX",
+          "signal": "Hold",
+          "score": 6.0,
+          "confidence": "medium",
+          "reason": "Expected return: 6.0%",
+          "sector": "Communication Services"
+        },
+        {
+          "ticker": "AMZN",
+          "signal": "Hold",
+          "score": 6.0,
+          "confidence": "medium",
+          "reason": "Expected return: 6.0%",
+          "sector": "Consumer Cyclical"
+        },
+        {
+          "ticker": "CMCSA",
+          "signal": "Hold",
+          "score": 6.0,
+          "confidence": "medium",
+          "reason": "Expected return: 6.0%",
+          "sector": "Communication Services"
+        },
+        {
+          "ticker": "T",
+          "signal": "Hold",
+          "score": 6.0,
+          "confidence": "medium",
+          "reason": "Expected return: 6.0%",
+          "sector": "Communication Services"
+        },
+        {
+          "ticker": "BKNG",
+          "signal": "Hold",
+          "score": 5.5,
+          "confidence": "medium",
+          "reason": "Expected return: 5.5%",
+          "sector": "Consumer Cyclical"
+        },
+        {
+          "ticker": "KO",
+          "signal": "Hold",
+          "score": 5.5,
+          "confidence": "medium",
+          "reason": "Expected return: 5.5%",
+          "sector": "Consumer Defensive"
+        }
+      ],
+      "predictions": [
+        {
+          "symbol": "UNH",
+          "expected_return": 7.5,
+          "confidence": 0.8,
+          "sentiment": "Buy",
+          "summary": "Healthcare stock with P/E: 10.8563385, Market Cap: $227,592,339,456",
+          "rank": 1,
+          "horizon": "next_quarter",
+          "sector": "Healthcare"
+        },
+        {
+          "symbol": "PFE",
+          "expected_return": 7.0,
+          "confidence": 0.8,
+          "sentiment": "Buy",
+          "summary": "Healthcare stock with P/E: 13.005291, Market Cap: $139,750,817,792",
+          "rank": 3,
+          "horizon": "next_quarter",
+          "sector": "Healthcare"
+        },
+        {
+          "symbol": "GOOGL",
+          "expected_return": 6.5,
+          "confidence": 0.6,
+          "sentiment": "Hold",
+          "summary": "Communication Services stock with P/E: 21.450478, Market Cap: $2,439,619,280,896",
+          "rank": 4,
+          "horizon": "next_quarter",
+          "sector": "Communication Services"
+        },
+        {
+          "symbol": "META",
+          "expected_return": 6.5,
+          "confidence": 0.6,
+          "sentiment": "Hold",
+          "summary": "Communication Services stock with P/E: 27.933912, Market Cap: $1,932,589,268,992",
+          "rank": 5,
+          "horizon": "next_quarter",
+          "sector": "Communication Services"
+        },
+        {
+          "symbol": "GOOG",
+          "expected_return": 6.5,
+          "confidence": 0.6,
+          "sentiment": "Hold",
+          "summary": "Communication Services stock with P/E: 21.544775, Market Cap: $2,439,610,368,000",
+          "rank": 8,
+          "horizon": "next_quarter",
+          "sector": "Communication Services"
+        },
+        {
+          "symbol": "JNJ",
+          "expected_return": 6.5,
+          "confidence": 0.6,
+          "sentiment": "Hold",
+          "summary": "Healthcare stock with P/E: 18.557816, Market Cap: $417,437,581,312",
+          "rank": 9,
+          "horizon": "next_quarter",
+          "sector": "Healthcare"
+        },
+        {
+          "symbol": "NFLX",
+          "expected_return": 6.0,
+          "confidence": 0.6,
+          "sentiment": "Hold",
+          "summary": "Communication Services stock with P/E: 51.53722, Market Cap: $514,857,369,600",
+          "rank": 12,
+          "horizon": "next_quarter",
+          "sector": "Communication Services"
+        },
+        {
+          "symbol": "AMZN",
+          "expected_return": 6.0,
+          "confidence": 0.6,
+          "sentiment": "Hold",
+          "summary": "Consumer Cyclical stock with P/E: 33.894978, Market Cap: $2,374,966,444,032",
+          "rank": 13,
+          "horizon": "next_quarter",
+          "sector": "Consumer Cyclical"
+        },
+        {
+          "symbol": "CMCSA",
+          "expected_return": 6.0,
+          "confidence": 0.6,
+          "sentiment": "Hold",
+          "summary": "Communication Services stock with P/E: 5.252073, Market Cap: $116,932,288,512",
+          "rank": 14,
+          "horizon": "next_quarter",
+          "sector": "Communication Services"
+        },
+        {
+          "symbol": "T",
+          "expected_return": 6.0,
+          "confidence": 0.6,
+          "sentiment": "Hold",
+          "summary": "Communication Services stock with P/E: 16.045713, Market Cap: $200,782,938,112",
+          "rank": 15,
+          "horizon": "next_quarter",
+          "sector": "Communication Services"
+        },
+        {
+          "symbol": "BKNG",
+          "expected_return": 5.5,
+          "confidence": 0.6,
+          "sentiment": "Hold",
+          "summary": "Consumer Cyclical stock with P/E: 37.73496, Market Cap: $175,205,007,360",
+          "rank": 18,
+          "horizon": "next_quarter",
+          "sector": "Consumer Cyclical"
+        },
+        {
+          "symbol": "KO",
+          "expected_return": 5.5,
+          "confidence": 0.6,
+          "sentiment": "Hold",
+          "summary": "Consumer Defensive stock with P/E: 24.943262, Market Cap: $302,720,122,880",
+          "rank": 19,
+          "horizon": "next_quarter",
+          "sector": "Consumer Defensive"
+        }
+      ],
+      "filter_criteria": {
+        "risk_level": "moderate",
+        "target_sentiments": [
+          "Buy",
+          "Hold"
+        ],
+        "min_expected_return": 5.5,
+        "max_stocks": 12,
+        "preferred_sectors": [],
+        "avoid_sectors": [
+          "Technology"
+        ]
+      },
+      "format_type": "prediction"
+    },
+    "bonds": {
+      "prediction_date": "2025-08-09",
+      "analysis_type": "LLM-enhanced bond analysis",
+      "total_bonds": 4,
+      "horizons": {
+        "next_quarter": [
+          {
+            "ticker": "HYG",
+            "bond_type": "high_yield",
+            "duration": "mixed",
+            "label": "iShares iBoxx $ High Yield Corpo...",
+            "expected_return": 0.03,
+            "rank": 1,
+            "sentiment": "neutral",
+            "confidence": 0.7,
+            "summary": "HYG, as a high-yield mixed duration bond, shows moderate price volatility and a strong distribution yield. Given the stable interest rate trend and slight steepening of the yield curve, the interes..."
+          },
+          {
+            "ticker": "IEF",
+            "bond_type": "treasury",
+            "duration": "long",
+            "label": "iShares 7-10 Year Treasury Bond ETF",
+            "expected_return": 0.03,
+            "rank": 2,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "IEF, a long-duration treasury bond, is sensitive to interest rate changes. With a stable interest rate environment and a flat yield curve, significant price movements are unlikely. High credit qual..."
+          },
+          {
+            "ticker": "TIP",
+            "bond_type": "tips",
+            "duration": "mixed",
+            "label": "iShares TIPS Bond ETF",
+            "expected_return": 0.03,
+            "rank": 3,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "The TIP bond, with its inflation protection feature, is well-positioned in a mixed duration environment given moderate inflation expectations of 2.5% and stable interest rate trends. The bond's cre..."
+          },
+          {
+            "ticker": "LQD",
+            "bond_type": "corporate",
+            "duration": "mixed",
+            "label": "iShares iBoxx $ Investment Grade...",
+            "expected_return": 0.03,
+            "rank": 4,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "LQD's mixed duration exposes it to moderate interest rate risk, with minimal changes in interest rates expected. The corporate credit quality is stable, but the narrow credit spreads indicate limit..."
+          }
+        ],
+        "next_year": [
+          {
+            "ticker": "LQD",
+            "bond_type": "corporate",
+            "duration": "mixed",
+            "label": "iShares iBoxx $ Investment Grade...",
+            "expected_return": 0.05,
+            "rank": 1,
+            "sentiment": "neutral",
+            "confidence": 0.7,
+            "summary": "LQD, a corporate bond fund with mixed duration, shows a moderate expected return with a relatively stable credit environment. The bond's interest rate sensitivity is balanced by its mixed duration,..."
+          },
+          {
+            "ticker": "HYG",
+            "bond_type": "high_yield",
+            "duration": "mixed",
+            "label": "iShares iBoxx $ High Yield Corpo...",
+            "expected_return": 0.045,
+            "rank": 2,
+            "sentiment": "neutral",
+            "confidence": 0.7,
+            "summary": "HYG, comprising high-yield bonds with mixed durations, offers a distribution yield of 5.75% and has shown strong past performance with a 1-year total return of 9.5%. However, the bond's high yield ..."
+          },
+          {
+            "ticker": "TIP",
+            "bond_type": "tips",
+            "duration": "mixed",
+            "label": "iShares TIPS Bond ETF",
+            "expected_return": 0.045,
+            "rank": 3,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "TIPS offer inflation protection, which is beneficial given stable inflation expectations. The mixed duration mitigates interest rate sensitivity, but low yield curve slope and flat economic growth ..."
+          },
+          {
+            "ticker": "IEF",
+            "bond_type": "treasury",
+            "duration": "long",
+            "label": "iShares 7-10 Year Treasury Bond ETF",
+            "expected_return": 0.03,
+            "rank": 4,
+            "sentiment": "neutral",
+            "confidence": 0.7,
+            "summary": "IEF, a long-duration treasury bond, is sensitive to interest rate changes. With a flat yield curve and modest interest rate increases anticipated, returns may be limited. The bond's high credit qua..."
+          }
+        ],
+        "long_term": [
+          {
+            "ticker": "HYG",
+            "bond_type": "high_yield",
+            "duration": "mixed",
+            "label": "iShares iBoxx $ High Yield Corpo...",
+            "expected_return": 0.065,
+            "rank": 1,
+            "sentiment": "neutral",
+            "confidence": 0.7,
+            "summary": "HYG, a high-yield bond ETF with mixed duration, offers a distribution yield of 5.75%, which is attractive in the current low-interest-rate environment. However, its high-yield nature implies signif..."
+          },
+          {
+            "ticker": "IEF",
+            "bond_type": "treasury",
+            "duration": "long",
+            "label": "iShares 7-10 Year Treasury Bond ETF",
+            "expected_return": 0.05,
+            "rank": 2,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "IEF, a long-duration treasury bond, is sensitive to interest rate changes. With current low interest rate trend and a flat yield curve, the bond may see modest returns as rates stabilize. Inflation..."
+          },
+          {
+            "ticker": "LQD",
+            "bond_type": "corporate",
+            "duration": "mixed",
+            "label": "iShares iBoxx $ Investment Grade...",
+            "expected_return": 0.05,
+            "rank": 3,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "LQD offers a stable yield with moderate interest rate sensitivity due to its mixed duration. The low expense ratio enhances return potential. Current market conditions show slight upward pressure o..."
+          },
+          {
+            "ticker": "TIP",
+            "bond_type": "tips",
+            "duration": "mixed",
+            "label": "iShares TIPS Bond ETF",
+            "expected_return": 0.045,
+            "rank": 4,
+            "sentiment": "neutral",
+            "confidence": 0.8,
+            "summary": "The TIP bond, with its mixed duration, provides a hedge against inflation with a distribution yield of 2.43%. The bond's price has increased by 4.7% over the past year, indicating positive performa..."
+          }
+        ]
+      },
+      "market_conditions": {
+        "vix_level": 0.37874999046325686,
+        "interest_rate_trend": 0.01,
+        "yield_curve_slope": 0.0008499984741210942,
+        "inflation_expectations": 0.025,
+        "economic_growth": 0.02,
+        "credit_spreads": 0.015,
+        "fed_policy_stance": 0.0
+      },
+      "macro_context_used": false
+    },
+    "gold": {
+      "prediction_date": "2025-08-09",
+      "analysis_type": "Quantitative gold analysis",
+      "total_gold_investments": 5,
+      "horizons": {
+        "next_quarter": [
+          {
+            "ticker": "GDX",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "VanEck Gold Miners ETF",
+            "expected_return": 0.07,
+            "rank": 1,
+            "sentiment": "bullish",
+            "confidence": 0.75,
+            "summary": "GDX shows technical strength with favorable macro conditions, including moderate inflation expectations and geopolitical risk, supporting a bullish outlook."
+          },
+          {
+            "ticker": "GC=F",
+            "gold_type": "Futures",
+            "timeframe": "long-term",
+            "label": "Gold Dec 25",
+            "expected_return": 0.02,
+            "rank": 2,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "Gold is exhibiting modest upward momentum with mixed technical indicators and stable market conditions."
+          },
+          {
+            "ticker": "SGOL",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "abrdn Physical Gold Shares ETF",
+            "expected_return": 0.02,
+            "rank": 3,
+            "sentiment": "neutral",
+            "confidence": 0.7,
+            "summary": "SGOL shows mixed signals with moderate technical indicators and elevated volume, amidst a stable economic backdrop and significant geopolitical risk."
+          },
+          {
+            "ticker": "GLD",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "SPDR Gold Shares",
+            "expected_return": 0.02,
+            "rank": 4,
+            "sentiment": "neutral",
+            "confidence": 0.7,
+            "summary": "Gold is trading near its moving averages with moderate technical indicators and mixed macroeconomic influences, suggesting a stable outlook."
+          },
+          {
+            "ticker": "IAU",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "iShares Gold Trust",
+            "expected_return": 0.02,
+            "rank": 5,
+            "sentiment": "neutral",
+            "confidence": 0.7,
+            "summary": "Gold ETF IAU shows neutral technical indicators with slight upward momentum, but mixed macroeconomic conditions suggest cautious outlook."
+          }
+        ],
+        "next_year": [
+          {
+            "ticker": "GDX",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "VanEck Gold Miners ETF",
+            "expected_return": 0.07,
+            "rank": 1,
+            "sentiment": "bullish",
+            "confidence": 0.8,
+            "summary": "GDX shows positive momentum with strong technical indicators and moderate macroeconomic support, suggesting a favorable outlook for the medium-term."
+          },
+          {
+            "ticker": "GC=F",
+            "gold_type": "Futures",
+            "timeframe": "long-term",
+            "label": "Gold Dec 25",
+            "expected_return": 0.04,
+            "rank": 2,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "Gold's technical indicators are mixed, with moderate RSI and positive MACD, while market conditions such as low VIX and stable interest rates suggest a stable outlook."
+          },
+          {
+            "ticker": "SGOL",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "abrdn Physical Gold Shares ETF",
+            "expected_return": 0.03,
+            "rank": 3,
+            "sentiment": "neutral",
+            "confidence": 0.7,
+            "summary": "Gold ETF SGOL shows mixed signals with balanced technical indicators and moderate market conditions, suggesting a neutral medium-term outlook."
+          },
+          {
+            "ticker": "GLD",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "SPDR Gold Shares",
+            "expected_return": 0.03,
+            "rank": 4,
+            "sentiment": "bullish",
+            "confidence": 0.75,
+            "summary": "Gold ETF GLD shows positive technical indicators with a high MACD and strong volume, while macroeconomic factors like low interest rates and moderate geopolitical risk support a bullish outlook."
+          },
+          {
+            "ticker": "IAU",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "iShares Gold Trust",
+            "expected_return": 0.03,
+            "rank": 5,
+            "sentiment": "neutral",
+            "confidence": 0.7,
+            "summary": "IAU shows moderate technical indicators with mixed fundamental signals. Market conditions suggest stable but cautious investment outlook for the medium-term."
+          }
+        ],
+        "long_term": [
+          {
+            "ticker": "GDX",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "VanEck Gold Miners ETF",
+            "expected_return": 0.07,
+            "rank": 1,
+            "sentiment": "bullish",
+            "confidence": 0.8,
+            "summary": "GDX shows strong medium-term technical indicators with positive price momentum and supportive macroeconomic conditions, despite moderate geopolitical risks."
+          },
+          {
+            "ticker": "GC=F",
+            "gold_type": "Futures",
+            "timeframe": "long-term",
+            "label": "Gold Dec 25",
+            "expected_return": 0.04,
+            "rank": 2,
+            "sentiment": "bullish",
+            "confidence": 0.75,
+            "summary": "Gold's technical indicators suggest modest bullish momentum, with supportive macroeconomic factors like moderate inflation and geopolitical risks."
+          },
+          {
+            "ticker": "SGOL",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "abrdn Physical Gold Shares ETF",
+            "expected_return": 0.03,
+            "rank": 3,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "SGOL's technical indicators show mixed signals with RSI at neutral and MACD slightly bullish. Market conditions are stable with low volatility, but geopolitical risks remain high."
+          },
+          {
+            "ticker": "GLD",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "SPDR Gold Shares",
+            "expected_return": 0.03,
+            "rank": 4,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "Gold ETF GLD shows mixed signals with a neutral RSI and a strong MACD. High volume and geopolitical risks may support potential upside, but economic growth and dollar strength are headwinds."
+          },
+          {
+            "ticker": "IAU",
+            "gold_type": "ETF",
+            "timeframe": "medium-term",
+            "label": "iShares Gold Trust",
+            "expected_return": 0.03,
+            "rank": 5,
+            "sentiment": "neutral",
+            "confidence": 0.75,
+            "summary": "Gold ETF IAU shows mixed technical indicators with a positive MACD but neutral RSI. Market conditions are stable with moderate geopolitical risks, suggesting a neutral outlook."
+          }
+        ]
+      },
+      "market_conditions": {
+        "vix_level": 0.37874999046325686,
+        "dollar_strength": 0.8181666692097982,
+        "inflation_expectations": 0.025,
+        "interest_rate_trend": 0.01,
+        "economic_growth": 0.02,
+        "geopolitical_risk": 0.5,
+        "real_rates": 0.01
+      },
+      "macro_context_used": false
+    }
+  },
+  "agent3_portfolio": {
+    "allocation": {
+      "stocks": 0.6,
+      "bonds": 0.3,
+      "gold": 0.1
+    },
+    "recommendations": {
+      "stocks": [
+        {
+          "symbol": "UNH",
+          "expected_return": 8.9
+        },
+        {
+          "symbol": "PFE",
+          "expected_return": 7.7
+        },
+        {
+          "symbol": "GOOGL",
+          "expected_return": 10.2
+        },
+        {
+          "symbol": "META",
+          "expected_return": 11.8
+        },
+        {
+          "symbol": "GOOG",
+          "expected_return": 7.3
+        },
+        {
+          "symbol": "JNJ",
+          "expected_return": 6.3
+        },
+        {
+          "symbol": "NFLX",
+          "expected_return": 11.6
+        },
+        {
+          "symbol": "AMZN",
+          "expected_return": 8.7
+        }
+      ],
+      "bonds": [
+        {
+          "symbol": "BND",
+          "expected_return": 2.9
+        },
+        {
+          "symbol": "AGG",
+          "expected_return": 5.1
+        },
+        {
+          "symbol": "IEF",
+          "expected_return": 4.9
+        },
+        {
+          "symbol": "TIP",
+          "expected_return": 5.0
+        },
+        {
+          "symbol": "LQD",
+          "expected_return": 4.8
+        }
+      ],
+      "gold": [
+        {
+          "symbol": "GLD",
+          "expected_return": 5.2
+        },
+        {
+          "symbol": "IAU",
+          "expected_return": 5.1
+        },
+        {
+          "symbol": "GDX",
+          "expected_return": 5.7
+        }
+      ]
+    },
+    "total_investment": 100000,
+    "expected_return": 0.066,
+    "risk_level": "moderate",
+    "reasoning": "Portfolio constructed for moderate risk investor with wealth building goal.\n\nAllocation Reasoning:\n- Stocks (60%): Selected for growth potential based on current market analysis\n- Bonds (30%): Provides stability and income generation\n- Gold (10%): Hedge against inflation and market volatility\n\nMarket Conditions Considered:\n- Current macro economic environment\n- Individual asset analysis and rankings\n- Risk-adjusted return optimization"
+  },
+  "final_recommendation": {
+    "session_id": "session_20250809_160033",
+    "user_profile_summary": {
+      "investment_amount": 100000,
+      "risk_level": "moderate",
+      "time_horizon": "short",
+      "investment_goal": "wealth building"
+    },
+    "portfolio_allocation": {
+      "stocks": 0.6,
+      "bonds": 0.3,
+      "gold": 0.1
+    },
+    "specific_recommendations": {
+      "stocks": [
+        {
+          "symbol": "UNH",
+          "expected_return": 8.9
+        },
+        {
+          "symbol": "PFE",
+          "expected_return": 7.7
+        },
+        {
+          "symbol": "GOOGL",
+          "expected_return": 10.2
+        },
+        {
+          "symbol": "META",
+          "expected_return": 11.8
+        },
+        {
+          "symbol": "GOOG",
+          "expected_return": 7.3
+        },
+        {
+          "symbol": "JNJ",
+          "expected_return": 6.3
+        },
+        {
+          "symbol": "NFLX",
+          "expected_return": 11.6
+        },
+        {
+          "symbol": "AMZN",
+          "expected_return": 8.7
+        }
+      ],
+      "bonds": [
+        {
+          "symbol": "BND",
+          "expected_return": 2.9
+        },
+        {
+          "symbol": "AGG",
+          "expected_return": 5.1
+        },
+        {
+          "symbol": "IEF",
+          "expected_return": 4.9
+        },
+        {
+          "symbol": "TIP",
+          "expected_return": 5.0
+        },
+        {
+          "symbol": "LQD",
+          "expected_return": 4.8
+        }
+      ],
+      "gold": [
+        {
+          "symbol": "GLD",
+          "expected_return": 5.2
+        },
+        {
+          "symbol": "IAU",
+          "expected_return": 5.1
+        },
+        {
+          "symbol": "GDX",
+          "expected_return": 5.7
+        }
+      ]
+    },
+    "expected_annual_return": "6.6%",
+    "reasoning": "Portfolio constructed for moderate risk investor with wealth building goal.\n\nAllocation Reasoning:\n- Stocks (60%): Selected for growth potential based on current market analysis\n- Bonds (30%): Provides stability and income generation\n- Gold (10%): Hedge against inflation and market volatility\n\nMarket Conditions Considered:\n- Current macro economic environment\n- Individual asset analysis and rankings\n- Risk-adjusted return optimization",
+    "implementation_plan": {
+      "immediate_actions": [
+        "Review and approve the recommended allocation",
+        "Open investment accounts if needed",
+        "Execute trades according to allocation"
+      ],
+      "monitoring": [
+        "Rebalance quarterly or when allocation drifts >5%",
+        "Review annually or when life circumstances change"
+      ]
+    },
+    "risk_warnings": [
+      "Past performance does not guarantee future results",
+      "All investments carry risk of loss",
+      "Consider consulting with a financial advisor"
+    ]
+  }
+}

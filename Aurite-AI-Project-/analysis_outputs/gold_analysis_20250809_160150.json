@@ -1,0 +1,188 @@
+{
+  "prediction_date": "2025-08-09",
+  "analysis_type": "Quantitative gold analysis",
+  "total_gold_investments": 5,
+  "horizons": {
+    "next_quarter": [
+      {
+        "ticker": "GDX",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "VanEck Gold Miners ETF",
+        "expected_return": 0.07,
+        "rank": 1,
+        "sentiment": "bullish",
+        "confidence": 0.75,
+        "summary": "GDX shows technical strength with favorable macro conditions, including moderate inflation expectations and geopolitical risk, supporting a bullish outlook."
+      },
+      {
+        "ticker": "GC=F",
+        "gold_type": "Futures",
+        "timeframe": "long-term",
+        "label": "Gold Dec 25",
+        "expected_return": 0.02,
+        "rank": 2,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "Gold is exhibiting modest upward momentum with mixed technical indicators and stable market conditions."
+      },
+      {
+        "ticker": "SGOL",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "abrdn Physical Gold Shares ETF",
+        "expected_return": 0.02,
+        "rank": 3,
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "summary": "SGOL shows mixed signals with moderate technical indicators and elevated volume, amidst a stable economic backdrop and significant geopolitical risk."
+      },
+      {
+        "ticker": "GLD",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "SPDR Gold Shares",
+        "expected_return": 0.02,
+        "rank": 4,
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "summary": "Gold is trading near its moving averages with moderate technical indicators and mixed macroeconomic influences, suggesting a stable outlook."
+      },
+      {
+        "ticker": "IAU",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "iShares Gold Trust",
+        "expected_return": 0.02,
+        "rank": 5,
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "summary": "Gold ETF IAU shows neutral technical indicators with slight upward momentum, but mixed macroeconomic conditions suggest cautious outlook."
+      }
+    ],
+    "next_year": [
+      {
+        "ticker": "GDX",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "VanEck Gold Miners ETF",
+        "expected_return": 0.07,
+        "rank": 1,
+        "sentiment": "bullish",
+        "confidence": 0.8,
+        "summary": "GDX shows positive momentum with strong technical indicators and moderate macroeconomic support, suggesting a favorable outlook for the medium-term."
+      },
+      {
+        "ticker": "GC=F",
+        "gold_type": "Futures",
+        "timeframe": "long-term",
+        "label": "Gold Dec 25",
+        "expected_return": 0.04,
+        "rank": 2,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "Gold's technical indicators are mixed, with moderate RSI and positive MACD, while market conditions such as low VIX and stable interest rates suggest a stable outlook."
+      },
+      {
+        "ticker": "SGOL",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "abrdn Physical Gold Shares ETF",
+        "expected_return": 0.03,
+        "rank": 3,
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "summary": "Gold ETF SGOL shows mixed signals with balanced technical indicators and moderate market conditions, suggesting a neutral medium-term outlook."
+      },
+      {
+        "ticker": "GLD",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "SPDR Gold Shares",
+        "expected_return": 0.03,
+        "rank": 4,
+        "sentiment": "bullish",
+        "confidence": 0.75,
+        "summary": "Gold ETF GLD shows positive technical indicators with a high MACD and strong volume, while macroeconomic factors like low interest rates and moderate geopolitical risk support a bullish outlook."
+      },
+      {
+        "ticker": "IAU",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "iShares Gold Trust",
+        "expected_return": 0.03,
+        "rank": 5,
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "summary": "IAU shows moderate technical indicators with mixed fundamental signals. Market conditions suggest stable but cautious investment outlook for the medium-term."
+      }
+    ],
+    "long_term": [
+      {
+        "ticker": "GDX",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "VanEck Gold Miners ETF",
+        "expected_return": 0.07,
+        "rank": 1,
+        "sentiment": "bullish",
+        "confidence": 0.8,
+        "summary": "GDX shows strong medium-term technical indicators with positive price momentum and supportive macroeconomic conditions, despite moderate geopolitical risks."
+      },
+      {
+        "ticker": "GC=F",
+        "gold_type": "Futures",
+        "timeframe": "long-term",
+        "label": "Gold Dec 25",
+        "expected_return": 0.04,
+        "rank": 2,
+        "sentiment": "bullish",
+        "confidence": 0.75,
+        "summary": "Gold's technical indicators suggest modest bullish momentum, with supportive macroeconomic factors like moderate inflation and geopolitical risks."
+      },
+      {
+        "ticker": "SGOL",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "abrdn Physical Gold Shares ETF",
+        "expected_return": 0.03,
+        "rank": 3,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "SGOL's technical indicators show mixed signals with RSI at neutral and MACD slightly bullish. Market conditions are stable with low volatility, but geopolitical risks remain high."
+      },
+      {
+        "ticker": "GLD",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "SPDR Gold Shares",
+        "expected_return": 0.03,
+        "rank": 4,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "Gold ETF GLD shows mixed signals with a neutral RSI and a strong MACD. High volume and geopolitical risks may support potential upside, but economic growth and dollar strength are headwinds."
+      },
+      {
+        "ticker": "IAU",
+        "gold_type": "ETF",
+        "timeframe": "medium-term",
+        "label": "iShares Gold Trust",
+        "expected_return": 0.03,
+        "rank": 5,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "Gold ETF IAU shows mixed technical indicators with a positive MACD but neutral RSI. Market conditions are stable with moderate geopolitical risks, suggesting a neutral outlook."
+      }
+    ]
+  },
+  "market_conditions": {
+    "vix_level": 0.37874999046325686,
+    "dollar_strength": 0.8181666692097982,
+    "inflation_expectations": 0.025,
+    "interest_rate_trend": 0.01,
+    "economic_growth": 0.02,
+    "geopolitical_risk": 0.5,
+    "real_rates": 0.01
+  },
+  "macro_context_used": false
+}

@@ -1,0 +1,301 @@
+{
+  "prediction_date": "2025-08-09",
+  "total_analyzed": 31,
+  "successful_predictions": 31,
+  "market_conditions": {
+    "volatility_regime": "normal",
+    "trend_direction": "neutral",
+    "market_stress": 0.5,
+    "sector_rotation": "balanced"
+  },
+  "horizons": {
+    "next_quarter": [
+      {
+        "symbol": "UNH",
+        "expected_return": 7.5,
+        "confidence": 0.8,
+        "sentiment": "Buy",
+        "summary": "Healthcare stock with P/E: 10.8563385, Market Cap: $227,592,339,456",
+        "rank": 1,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "QCOM",
+        "expected_return": 7.5,
+        "confidence": 0.8,
+        "sentiment": "Buy",
+        "summary": "Technology stock with P/E: 14.243243, Market Cap: $159,217,254,400",
+        "rank": 2,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "PFE",
+        "expected_return": 7.0,
+        "confidence": 0.8,
+        "sentiment": "Buy",
+        "summary": "Healthcare stock with P/E: 13.005291, Market Cap: $139,750,817,792",
+        "rank": 3,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "GOOGL",
+        "expected_return": 6.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 21.450478, Market Cap: $2,439,619,280,896",
+        "rank": 4,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "META",
+        "expected_return": 6.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 27.933912, Market Cap: $1,932,589,268,992",
+        "rank": 5,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "CSCO",
+        "expected_return": 6.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Technology stock with P/E: 29.30204, Market Cap: $284,288,417,792",
+        "rank": 6,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "ADBE",
+        "expected_return": 6.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Technology stock with P/E: 21.834187, Market Cap: $144,673,406,976",
+        "rank": 7,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "GOOG",
+        "expected_return": 6.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 21.544775, Market Cap: $2,439,610,368,000",
+        "rank": 8,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "JNJ",
+        "expected_return": 6.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Healthcare stock with P/E: 18.557816, Market Cap: $417,437,581,312",
+        "rank": 9,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "MSFT",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Technology stock with P/E: 38.300804, Market Cap: $3,880,411,987,968",
+        "rank": 10,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "NVDA",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Technology stock with P/E: 58.745983, Market Cap: $4,455,614,382,080",
+        "rank": 11,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "NFLX",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 51.53722, Market Cap: $514,857,369,600",
+        "rank": 12,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "AMZN",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Cyclical stock with P/E: 33.894978, Market Cap: $2,374,966,444,032",
+        "rank": 13,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "CMCSA",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 5.252073, Market Cap: $116,932,288,512",
+        "rank": 14,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "T",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 16.045713, Market Cap: $200,782,938,112",
+        "rank": 15,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "AVGO",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Technology stock with P/E: 111.30292, Market Cap: $1,434,417,233,920",
+        "rank": 16,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "AMD",
+        "expected_return": 5.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Technology stock with P/E: 102.833336, Market Cap: $280,361,828,352",
+        "rank": 17,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "BKNG",
+        "expected_return": 5.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Cyclical stock with P/E: 37.73496, Market Cap: $175,205,007,360",
+        "rank": 18,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "KO",
+        "expected_return": 5.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Defensive stock with P/E: 24.943262, Market Cap: $302,720,122,880",
+        "rank": 19,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "PEP",
+        "expected_return": 5.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Defensive stock with P/E: 26.449911, Market Cap: $198,804,127,744",
+        "rank": 20,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "HON",
+        "expected_return": 5.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Industrials stock with P/E: 24.636675, Market Cap: $137,334,571,008",
+        "rank": 21,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "LMT",
+        "expected_return": 5.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Industrials stock with P/E: 23.871565, Market Cap: $99,369,705,472",
+        "rank": 22,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "AAPL",
+        "expected_return": 5.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Technology stock with P/E: 34.855625, Market Cap: $3,403,645,714,432",
+        "rank": 23,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "MAR",
+        "expected_return": 5.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Cyclical stock with P/E: 29.237347, Market Cap: $70,557,360,128",
+        "rank": 24,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "COST",
+        "expected_return": 5.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Defensive stock with P/E: 55.54813, Market Cap: $435,042,058,240",
+        "rank": 25,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "ABBV",
+        "expected_return": 5.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Healthcare stock with P/E: 94.30953, Market Cap: $349,867,212,800",
+        "rank": 26,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "CRM",
+        "expected_return": 4.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Technology stock with P/E: 37.579685, Market Cap: $229,927,550,976",
+        "rank": 27,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "SBUX",
+        "expected_return": 4.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Cyclical stock with P/E: 39.87879, Market Cap: $104,712,806,400",
+        "rank": 28,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "INTC",
+        "expected_return": 4.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Technology stock with P/E: N/A, Market Cap: $87,321,149,440",
+        "rank": 29,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "WBA",
+        "expected_return": 4.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Healthcare stock with P/E: N/A, Market Cap: $10,334,797,824",
+        "rank": 30,
+        "horizon": "next_quarter"
+      },
+      {
+        "symbol": "TSLA",
+        "expected_return": 3.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Cyclical stock with P/E: 196.22025, Market Cap: $1,063,269,564,416",
+        "rank": 31,
+        "horizon": "next_quarter"
+      }
+    ]
+  },
+  "analysis_summary": "Analyzed 31 NASDAQ-100 stocks, generated 31 predictions",
+  "macro_context_used": false,
+  "performance_metrics": {
+    "analysis_time": "2025-08-09T16:00:36.874080",
+    "symbols_processed": 31,
+    "success_rate": 1.0
+  }
+}

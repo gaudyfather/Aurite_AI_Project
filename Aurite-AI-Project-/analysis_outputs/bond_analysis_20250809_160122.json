@@ -1,0 +1,155 @@
+{
+  "prediction_date": "2025-08-09",
+  "analysis_type": "LLM-enhanced bond analysis",
+  "total_bonds": 4,
+  "horizons": {
+    "next_quarter": [
+      {
+        "ticker": "HYG",
+        "bond_type": "high_yield",
+        "duration": "mixed",
+        "label": "iShares iBoxx $ High Yield Corpo...",
+        "expected_return": 0.03,
+        "rank": 1,
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "summary": "HYG, as a high-yield mixed duration bond, shows moderate price volatility and a strong distribution yield. Given the stable interest rate trend and slight steepening of the yield curve, the interes..."
+      },
+      {
+        "ticker": "IEF",
+        "bond_type": "treasury",
+        "duration": "long",
+        "label": "iShares 7-10 Year Treasury Bond ETF",
+        "expected_return": 0.03,
+        "rank": 2,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "IEF, a long-duration treasury bond, is sensitive to interest rate changes. With a stable interest rate environment and a flat yield curve, significant price movements are unlikely. High credit qual..."
+      },
+      {
+        "ticker": "TIP",
+        "bond_type": "tips",
+        "duration": "mixed",
+        "label": "iShares TIPS Bond ETF",
+        "expected_return": 0.03,
+        "rank": 3,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "The TIP bond, with its inflation protection feature, is well-positioned in a mixed duration environment given moderate inflation expectations of 2.5% and stable interest rate trends. The bond's cre..."
+      },
+      {
+        "ticker": "LQD",
+        "bond_type": "corporate",
+        "duration": "mixed",
+        "label": "iShares iBoxx $ Investment Grade...",
+        "expected_return": 0.03,
+        "rank": 4,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "LQD's mixed duration exposes it to moderate interest rate risk, with minimal changes in interest rates expected. The corporate credit quality is stable, but the narrow credit spreads indicate limit..."
+      }
+    ],
+    "next_year": [
+      {
+        "ticker": "LQD",
+        "bond_type": "corporate",
+        "duration": "mixed",
+        "label": "iShares iBoxx $ Investment Grade...",
+        "expected_return": 0.05,
+        "rank": 1,
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "summary": "LQD, a corporate bond fund with mixed duration, shows a moderate expected return with a relatively stable credit environment. The bond's interest rate sensitivity is balanced by its mixed duration,..."
+      },
+      {
+        "ticker": "HYG",
+        "bond_type": "high_yield",
+        "duration": "mixed",
+        "label": "iShares iBoxx $ High Yield Corpo...",
+        "expected_return": 0.045,
+        "rank": 2,
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "summary": "HYG, comprising high-yield bonds with mixed durations, offers a distribution yield of 5.75% and has shown strong past performance with a 1-year total return of 9.5%. However, the bond's high yield ..."
+      },
+      {
+        "ticker": "TIP",
+        "bond_type": "tips",
+        "duration": "mixed",
+        "label": "iShares TIPS Bond ETF",
+        "expected_return": 0.045,
+        "rank": 3,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "TIPS offer inflation protection, which is beneficial given stable inflation expectations. The mixed duration mitigates interest rate sensitivity, but low yield curve slope and flat economic growth ..."
+      },
+      {
+        "ticker": "IEF",
+        "bond_type": "treasury",
+        "duration": "long",
+        "label": "iShares 7-10 Year Treasury Bond ETF",
+        "expected_return": 0.03,
+        "rank": 4,
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "summary": "IEF, a long-duration treasury bond, is sensitive to interest rate changes. With a flat yield curve and modest interest rate increases anticipated, returns may be limited. The bond's high credit qua..."
+      }
+    ],
+    "long_term": [
+      {
+        "ticker": "HYG",
+        "bond_type": "high_yield",
+        "duration": "mixed",
+        "label": "iShares iBoxx $ High Yield Corpo...",
+        "expected_return": 0.065,
+        "rank": 1,
+        "sentiment": "neutral",
+        "confidence": 0.7,
+        "summary": "HYG, a high-yield bond ETF with mixed duration, offers a distribution yield of 5.75%, which is attractive in the current low-interest-rate environment. However, its high-yield nature implies signif..."
+      },
+      {
+        "ticker": "IEF",
+        "bond_type": "treasury",
+        "duration": "long",
+        "label": "iShares 7-10 Year Treasury Bond ETF",
+        "expected_return": 0.05,
+        "rank": 2,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "IEF, a long-duration treasury bond, is sensitive to interest rate changes. With current low interest rate trend and a flat yield curve, the bond may see modest returns as rates stabilize. Inflation..."
+      },
+      {
+        "ticker": "LQD",
+        "bond_type": "corporate",
+        "duration": "mixed",
+        "label": "iShares iBoxx $ Investment Grade...",
+        "expected_return": 0.05,
+        "rank": 3,
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "summary": "LQD offers a stable yield with moderate interest rate sensitivity due to its mixed duration. The low expense ratio enhances return potential. Current market conditions show slight upward pressure o..."
+      },
+      {
+        "ticker": "TIP",
+        "bond_type": "tips",
+        "duration": "mixed",
+        "label": "iShares TIPS Bond ETF",
+        "expected_return": 0.045,
+        "rank": 4,
+        "sentiment": "neutral",
+        "confidence": 0.8,
+        "summary": "The TIP bond, with its mixed duration, provides a hedge against inflation with a distribution yield of 2.43%. The bond's price has increased by 4.7% over the past year, indicating positive performa..."
+      }
+    ]
+  },
+  "market_conditions": {
+    "vix_level": 0.37874999046325686,
+    "interest_rate_trend": 0.01,
+    "yield_curve_slope": 0.0008499984741210942,
+    "inflation_expectations": 0.025,
+    "economic_growth": 0.02,
+    "credit_spreads": 0.015,
+    "fed_policy_stance": 0.0
+  },
+  "macro_context_used": false
+}

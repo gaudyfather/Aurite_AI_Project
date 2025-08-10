@@ -1,0 +1,34 @@
+{
+  "profile_id": "workflow_1754780433844",
+  "timestamp": "2025-08-09T16:00:33.845098",
+  "investment_amount": 100000,
+  "risk_level": "moderate",
+  "time_horizon": "short",
+  "investment_goal": "wealth building",
+  "monthly_contribution": 0,
+  "preferred_sectors": [],
+  "avoid_sectors": [
+    "Technology"
+  ],
+  "additional_notes": "avoid tech",
+  "prefers_esg": false,
+  "needs_liquidity": false,
+  "tax_sensitive": false,
+  "creation_timestamp": "2025-08-09T16:00:33.845130",
+  "user_sophistication": "intermediate",
+  "behavioral_traits": {
+    "risk_seeking": false,
+    "risk_averse": false,
+    "disciplined_saver": false
+  },
+  "parsed_preferences": {
+    "avoid_sectors_from_notes": [
+      "Technology"
+    ],
+    "prefer_sectors_from_notes": [],
+    "esg_from_notes": false,
+    "liquidity_from_notes": false,
+    "tax_from_notes": false,
+    "monthly_from_notes": 0
+  }
+}

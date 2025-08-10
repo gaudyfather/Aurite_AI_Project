@@ -1,0 +1,17 @@
+{
+  "investment_amount": 100000.0,
+  "risk_level": "moderate",
+  "time_horizon": 5,
+  "investment_goal": "house",
+  "monthly_contribution": 0,
+  "preferred_sectors": [],
+  "avoid_sectors": [],
+  "needs_liquidity": false,
+  "prefers_esg": false,
+  "tax_sensitive": false,
+  "user_sophistication": "beginner",
+  "profile_id": "AIV_20250809_124539",
+  "creation_timestamp": "2025-08-09T12:45:39.614474",
+  "profile_quality": 0.54,
+  "behavioral_traits": {}
+}

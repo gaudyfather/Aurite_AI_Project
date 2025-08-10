@@ -1,0 +1,241 @@
+{
+  "prediction_date": "2025-08-09",
+  "total_analyzed": 12,
+  "successful_predictions": 12,
+  "horizons": {
+    "next_quarter": [
+      {
+        "symbol": "UNH",
+        "expected_return": 7.5,
+        "confidence": 0.8,
+        "sentiment": "Buy",
+        "summary": "Healthcare stock with P/E: 10.8563385, Market Cap: $227,592,339,456",
+        "rank": 1,
+        "horizon": "next_quarter",
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "PFE",
+        "expected_return": 7.0,
+        "confidence": 0.8,
+        "sentiment": "Buy",
+        "summary": "Healthcare stock with P/E: 13.005291, Market Cap: $139,750,817,792",
+        "rank": 3,
+        "horizon": "next_quarter",
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "GOOGL",
+        "expected_return": 6.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 21.450478, Market Cap: $2,439,619,280,896",
+        "rank": 4,
+        "horizon": "next_quarter",
+        "sector": "Communication Services"
+      },
+      {
+        "symbol": "META",
+        "expected_return": 6.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 27.933912, Market Cap: $1,932,589,268,992",
+        "rank": 5,
+        "horizon": "next_quarter",
+        "sector": "Communication Services"
+      },
+      {
+        "symbol": "GOOG",
+        "expected_return": 6.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 21.544775, Market Cap: $2,439,610,368,000",
+        "rank": 8,
+        "horizon": "next_quarter",
+        "sector": "Communication Services"
+      },
+      {
+        "symbol": "JNJ",
+        "expected_return": 6.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Healthcare stock with P/E: 18.557816, Market Cap: $417,437,581,312",
+        "rank": 9,
+        "horizon": "next_quarter",
+        "sector": "Healthcare"
+      },
+      {
+        "symbol": "NFLX",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 51.53722, Market Cap: $514,857,369,600",
+        "rank": 12,
+        "horizon": "next_quarter",
+        "sector": "Communication Services"
+      },
+      {
+        "symbol": "AMZN",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Cyclical stock with P/E: 33.894978, Market Cap: $2,374,966,444,032",
+        "rank": 13,
+        "horizon": "next_quarter",
+        "sector": "Consumer Cyclical"
+      },
+      {
+        "symbol": "CMCSA",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 5.252073, Market Cap: $116,932,288,512",
+        "rank": 14,
+        "horizon": "next_quarter",
+        "sector": "Communication Services"
+      },
+      {
+        "symbol": "T",
+        "expected_return": 6.0,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Communication Services stock with P/E: 16.045713, Market Cap: $200,782,938,112",
+        "rank": 15,
+        "horizon": "next_quarter",
+        "sector": "Communication Services"
+      },
+      {
+        "symbol": "BKNG",
+        "expected_return": 5.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Cyclical stock with P/E: 37.73496, Market Cap: $175,205,007,360",
+        "rank": 18,
+        "horizon": "next_quarter",
+        "sector": "Consumer Cyclical"
+      },
+      {
+        "symbol": "KO",
+        "expected_return": 5.5,
+        "confidence": 0.6,
+        "sentiment": "Hold",
+        "summary": "Consumer Defensive stock with P/E: 24.943262, Market Cap: $302,720,122,880",
+        "rank": 19,
+        "horizon": "next_quarter",
+        "sector": "Consumer Defensive"
+      }
+    ]
+  },
+  "filter_criteria": {
+    "risk_level": "moderate",
+    "target_sentiments": [
+      "Buy",
+      "Hold"
+    ],
+    "min_expected_return": 5.5,
+    "max_stocks": 12,
+    "preferred_sectors": [],
+    "avoid_sectors": [
+      "Technology"
+    ]
+  },
+  "signals_summary": [
+    {
+      "ticker": "UNH",
+      "signal": "Buy",
+      "score": 7.5,
+      "confidence": "high",
+      "reason": "Expected return: 7.5%",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "PFE",
+      "signal": "Buy",
+      "score": 7.0,
+      "confidence": "high",
+      "reason": "Expected return: 7.0%",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "GOOGL",
+      "signal": "Hold",
+      "score": 6.5,
+      "confidence": "medium",
+      "reason": "Expected return: 6.5%",
+      "sector": "Communication Services"
+    },
+    {
+      "ticker": "META",
+      "signal": "Hold",
+      "score": 6.5,
+      "confidence": "medium",
+      "reason": "Expected return: 6.5%",
+      "sector": "Communication Services"
+    },
+    {
+      "ticker": "GOOG",
+      "signal": "Hold",
+      "score": 6.5,
+      "confidence": "medium",
+      "reason": "Expected return: 6.5%",
+      "sector": "Communication Services"
+    },
+    {
+      "ticker": "JNJ",
+      "signal": "Hold",
+      "score": 6.5,
+      "confidence": "medium",
+      "reason": "Expected return: 6.5%",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "NFLX",
+      "signal": "Hold",
+      "score": 6.0,
+      "confidence": "medium",
+      "reason": "Expected return: 6.0%",
+      "sector": "Communication Services"
+    },
+    {
+      "ticker": "AMZN",
+      "signal": "Hold",
+      "score": 6.0,
+      "confidence": "medium",
+      "reason": "Expected return: 6.0%",
+      "sector": "Consumer Cyclical"
+    },
+    {
+      "ticker": "CMCSA",
+      "signal": "Hold",
+      "score": 6.0,
+      "confidence": "medium",
+      "reason": "Expected return: 6.0%",
+      "sector": "Communication Services"
+    },
+    {
+      "ticker": "T",
+      "signal": "Hold",
+      "score": 6.0,
+      "confidence": "medium",
+      "reason": "Expected return: 6.0%",
+      "sector": "Communication Services"
+    },
+    {
+      "ticker": "BKNG",
+      "signal": "Hold",
+      "score": 5.5,
+      "confidence": "medium",
+      "reason": "Expected return: 5.5%",
+      "sector": "Consumer Cyclical"
+    },
+    {
+      "ticker": "KO",
+      "signal": "Hold",
+      "score": 5.5,
+      "confidence": "medium",
+      "reason": "Expected return: 5.5%",
+      "sector": "Consumer Defensive"
+    }
+  ],
+  "format_type": "prediction"
+}
